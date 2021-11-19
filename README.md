@@ -1,2 +1,0 @@
-# CppLeraning
-C++ learning repo
