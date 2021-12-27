@@ -26,6 +26,12 @@ int main(){
     std::cout << "Input your heigh in pounds:";
     std::cin >> heightInPounds; //Ask for height and inches
 
+//Some print 
+std::cout << heightInFeet;
+
+std::cout << heightInInches;
+
+std::cout << heightInPounds;
     //Calculate body mass index (BMI)
     // convert your height in feet
     
