@@ -1,0 +1,3 @@
+/Learning/CppLeraning/Chapter1/page112Ex2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Learning/CppLeraning/Chapter1/page112Ex2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Learning/CppLeraning/Chapter1/page112Ex2/cmake-build-debug/CMakeFiles/page112Ex2.dir
